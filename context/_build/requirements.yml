@@ -1,0 +1,15 @@
+# Ansible Galaxy dependencies
+collections:
+    - community.aws
+    - community.azure
+    - amazon.aws
+    - azure.azcollection
+    - ansible.utils
+    - ansible.windows
+    - ansible.netcommon
+    - awx.awx
+    - netapp.aws
+    - netapp.azure
+    - community.vmware
+    - community.windows
+    - community.general
