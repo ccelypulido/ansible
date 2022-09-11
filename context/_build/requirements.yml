@@ -13,3 +13,4 @@ collections:
     - community.vmware
     - community.windows
     - community.general
+    - community.crypto
